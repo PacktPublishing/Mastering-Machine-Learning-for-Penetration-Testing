@@ -1,4 +1,4 @@
-# Mastering-Machine-Learning-for-Penetration-Testing
+# Mastering Machine Learning for Penetration Testing
 Mastering Machine Learning for Penetration Testing, published by Packt
 
 ![alt text](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10116_MockupCover.png)
@@ -21,4 +21,6 @@ By the end of this book, you will be well-versed with identifying loop holes in 
     * Build generative adversarial networks using python libraries
     * Work with Threat hunting with Machine Learning and ELK stack
     * Learn the best practices for Machine learning
+
+# Chapters List 
 
