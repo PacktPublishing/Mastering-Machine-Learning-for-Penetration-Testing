@@ -14,11 +14,9 @@ In this Chapter we discovered Machine Learning fundamentals and Models. Also we 
 * apt-get install python3-matplotlib 
 
 
-
-
-
 ## This repository contains some additional useful scripts and demonstrations discussed in Chapter 1 :  
 
 * TensorFlow-Hello.py
 * Plot_Sample.py
 * Pandas_Series_sample.py
+* Theano_Addition.py
