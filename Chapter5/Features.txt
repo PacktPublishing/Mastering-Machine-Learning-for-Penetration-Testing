@@ -1,0 +1,49 @@
+
+These are the Features used in Chapter5 :
+
+
+
+Source/Destination Ip/port
+packet length
+
+
+
+time
+protocol
+
+
+distinct conversatn :
+	duration
+	packets from 1 to 2, 2 to1
+	
+
+
+Source IP
+Destination IP
+Source port
+Destination port
+Protocol
+PX (total number of packets ex-changed)
+NNP (number of null packets ex-changedb )
+NSP (number of small packetsc ex-changed)
+PSP (percentage of small packets exchanged)
+
+IOPR (ratio between the number of incoming packets over the number of outgoing packets)
+
+Reconnect (number of reconnects)
+
+
+Duration (flow duration)
+
+FPS (length of the first packet)
+
+TBT (total number of bytes)
+APL (average payload packet length)
+
+DPL (total number of packets with the same length over the total num-ber of packets)
+
+PV (Standard deviation of payload packet length)
+BS (average bits-per-second)
+PS (average packets-per-second in a time window)
+AIT (average inter arrival time of packets)
+PPS (average packets-per-second)
