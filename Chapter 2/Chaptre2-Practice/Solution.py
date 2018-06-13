@@ -3,7 +3,6 @@
 import os
 import numpy as np
 from collections import Counter
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC
 from sklearn.metrics import confusion_matrix
 
