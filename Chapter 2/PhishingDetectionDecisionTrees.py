@@ -15,5 +15,5 @@ classifier.fit(training_features, training_results)
 predictions = classifier.predict(testing_features)
 accuracy = 100.0 * accuracy_score(testing_results, predictions)
 
-print ("The accuracy of the Phishing detector Model with Decision Tree" + str(accuracy))
+print ("The accuracy of the Phishing detector Model with Decision Tree :" + str(accuracy))
 
