@@ -18,7 +18,7 @@ classifier = LogisticRegression()
 classifier.fit(training_inputs, training_outputs)
 predictions = classifier.predict(testing_inputs)
 accuracy = 100.0 * accuracy_score(testing_outputs, predictions)
-print ("The accuracy of your decision tree on testing data is: " + str(accuracy))
+print ("The accuracy of your Logistic Regression on testing data is: " + str(accuracy))
 
 
 
