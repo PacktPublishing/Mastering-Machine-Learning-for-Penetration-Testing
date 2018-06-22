@@ -1,7 +1,7 @@
 # Mastering Machine Learning for Penetration Testing
 Mastering Machine Learning for Penetration Testing, published by Packt
 
-![alt text](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10116_MockupCover.png)
+![alt text](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10116_MockupCover_New.png)
 
 # Book Description
 
