@@ -4,3 +4,7 @@
 * PhishingDetectionLogisticRegression.py
 * PhishingDetectionDecisionTrees.py
 * SpamDetection_NLTK.py
+
+## Credits:
+
+Ekaterina Kochmar https://cambridgespark.com 
